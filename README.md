@@ -2,4 +2,4 @@
 
 > ### ⚠️ Project in Progress - Low Priority.
 
-### Simple project to instalock your preferred valorant agent ⏳!
+### Simple project in Rust to instalock your preferred valorant agent ⏳!
